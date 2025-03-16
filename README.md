@@ -1,5 +1,5 @@
 
-**Lethrinops chilingali description**
+# Lethrinops chilingali description
 
 Data underpinning the paper "Two new species of haplochromine cichlid fish (Cichlidae: Pseudocrenilabrini) from Lake Malawi" by George F. Turner and Martin J. Genner
 
