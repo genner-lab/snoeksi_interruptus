@@ -1,4 +1,4 @@
-10.5281/zenodo.15230406
+[![DOI](https://zenodo.org/badge/949363354.svg)](https://doi.org/10.5281/zenodo.15230546)
 
 # Description of new Malawi cichlid fish species
 
